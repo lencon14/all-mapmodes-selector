@@ -1,6 +1,6 @@
 # All Mapmodes Selector (EU5 Mod)
 
-[English](README.md) | [日本語](README_JA.md) | [简体中文](README_ZH.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | **Polski** | [Türkçe](README_TR.md)
+[English](README.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Français](README_FR.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | **Polski** | [Português (Brasil)](README_PT.md) | [Русский](README_RU.md) | [Türkçe](README_TR.md) | [简体中文](README_ZH.md)
 
 Mod ulepszający interfejs dla gry Europa Universalis V (EU5 / Project Caesar).  
 Zapewnia szybki dostęp za jednym kliknięciem myszy do wszystkich **119 grywalnych trybów mapy** za pośrednictwem skategoryzowanego menu w prawym dolnym rogu HUD.

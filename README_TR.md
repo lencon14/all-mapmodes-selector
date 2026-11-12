@@ -1,6 +1,6 @@
 # All Mapmodes Selector (EU5 Mod)
 
-[English](README.md) | [日本語](README_JA.md) | [简体中文](README_ZH.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [Polski](README_PL.md) | **Türkçe**
+[English](README.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Français](README_FR.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Polski](README_PL.md) | [Português (Brasil)](README_PT.md) | [Русский](README_RU.md) | **Türkçe** | [简体中文](README_ZH.md)
 
 Europa Universalis V (EU5 / Project Caesar) için arayüz geliştirme modu.  
 Sağ alt HUD'daki kategorilere ayrılmış menüler aracılığıyla oynanabilir **119 harita modunun tamamına** fareyle tek tıklamayla hızlı erişim sağlar.

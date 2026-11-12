@@ -1,6 +1,6 @@
 # All Mapmodes Selector (EU5 Mod)
 
-[English](README.md) | [日本語](README_JA.md) | [简体中文](README_ZH.md) | **한국어** | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md)
+[English](README.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Français](README_FR.md) | [日本語](README_JA.md) | **한국어** | [Polski](README_PL.md) | [Português (Brasil)](README_PT.md) | [Русский](README_RU.md) | [Türkçe](README_TR.md) | [简体中文](README_ZH.md)
 
 유로파 유니버셜리스 5(Europa Universalis V / Project Caesar)용 맵 모드 확장 모드입니다.  
 화면 우하단 HUD의 카테고리별 메뉴를 통해 일반 플레이에 필요한 **총 119종의 맵 모드**를 마우스 원클릭으로 빠르게 전환할 수 있는 UI를 제공합니다.

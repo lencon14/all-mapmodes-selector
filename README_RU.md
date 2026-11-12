@@ -1,6 +1,6 @@
 # All Mapmodes Selector (EU5 Mod)
 
-[English](README.md) | [日本語](README_JA.md) | [简体中文](README_ZH.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Português](README_PT.md) | **Русский** | [Polski](README_PL.md) | [Türkçe](README_TR.md)
+[English](README.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Français](README_FR.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Polski](README_PL.md) | [Português (Brasil)](README_PT.md) | **Русский** | [Türkçe](README_TR.md) | [简体中文](README_ZH.md)
 
 Мод для расширения интерфейса Europa Universalis V (EU5 / Project Caesar).  
 Обеспечивает быстрый доступ в один клик мыши ко всем **119 игровым режимам карты** через удобные категоризированные меню в правом нижнем углу интерфейса (HUD).
