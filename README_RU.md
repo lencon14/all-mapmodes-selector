@@ -44,7 +44,7 @@
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Дескриптор мода (Тег Interface / v1.0.0)
+├── metadata.json              # Дескриптор мода (Тег Interface / v1.*)
 ├── README.md                  # Документация (Английский)
 ├── README_JA.md               # Документация (Японский)
 ├── README_RU.md               # Документация (Русский)

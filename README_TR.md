@@ -44,7 +44,7 @@ Sağ alt HUD'daki kategorilere ayrılmış menüler aracılığıyla oynanabilir
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Mod tanımlayıcı dosyası (Interface etiketi / v1.0.0)
+├── metadata.json              # Mod tanımlayıcı dosyası (Interface etiketi / v1.*)
 ├── README.md                  # Dokümantasyon (İngilizce)
 ├── README_JA.md               # Dokümantasyon (Japonca)
 ├── README_TR.md               # Dokümantasyon (Türkçe)

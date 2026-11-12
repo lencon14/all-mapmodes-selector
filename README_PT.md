@@ -44,7 +44,7 @@ Fornece acesso rápido por clique do mouse a todos os **119 modos de mapa jogáv
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Descritor do mod (Tag Interface / v1.0.0)
+├── metadata.json              # Descritor do mod (Tag Interface / v1.*)
 ├── README.md                  # Documentação (Inglês)
 ├── README_JA.md               # Documentação (Japonês)
 ├── README_PT.md               # Documentação (Português)

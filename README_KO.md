@@ -44,7 +44,7 @@
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # 모드 메타데이터 파일 (Interface 태그 / v1.0.0)
+├── metadata.json              # 모드 메타데이터 파일 (Interface 태그 / v1.*)
 ├── README.md                  # 모드 설명서 (영어)
 ├── README_JA.md               # 모드 설명서 (일본어)
 ├── README_ZH.md               # 모드 설명서 (간체 중국어)

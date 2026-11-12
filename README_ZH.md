@@ -44,7 +44,7 @@
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # 模组元数据文件 (Interface标签 / v1.0.0)
+├── metadata.json              # 模组元数据文件 (Interface标签 / v1.*)
 ├── README.md                  # 模组说明文档 (英文)
 ├── README_JA.md               # 模组说明文档 (日文)
 ├── README_ZH.md               # 模组说明文档 (简体中文)

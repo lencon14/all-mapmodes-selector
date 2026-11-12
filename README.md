@@ -44,7 +44,7 @@ Provides fast, one-click mouse access to all **119 playable mapmodes** through o
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Mod descriptor file (Interface tag / v1.0.0)
+├── metadata.json              # Mod descriptor file (Interface tag / v1.*)
 ├── README.md                  # Mod documentation (English)
 ├── README_JA.md               # Mod documentation (Japanese)
 ├── in_game/

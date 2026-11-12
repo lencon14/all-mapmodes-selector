@@ -44,7 +44,7 @@ Europa Universalis V (EU5 / Project Caesar) 用のマップモード拡張Modで
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Mod定義ファイル (Interfaceタグ / v1.0.0)
+├── metadata.json              # Mod定義ファイル (Interfaceタグ / v1.*)
 ├── README.md                  # Mod概要・仕様書 (英語)
 ├── README_JA.md               # Mod概要・仕様書 (日本語)
 ├── in_game/

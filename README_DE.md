@@ -44,7 +44,7 @@ Ermöglicht schnellen Ein-Klick-Zugriff auf alle **119 spielbaren Kartenmodi** �
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Mod-Beschreibungsdatei (Interface-Tag / v1.0.0)
+├── metadata.json              # Mod-Beschreibungsdatei (Interface-Tag / v1.*)
 ├── README.md                  # Dokumentation (Englisch)
 ├── README_JA.md               # Dokumentation (Japanisch)
 ├── README_DE.md               # Dokumentation (Deutsch)

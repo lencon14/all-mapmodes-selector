@@ -44,7 +44,7 @@ Ofrece acceso rápido y con un solo clic a los **119 modos de mapa jugables** a 
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Descriptor del mod (Etiqueta Interface / v1.0.0)
+├── metadata.json              # Descriptor del mod (Etiqueta Interface / v1.*)
 ├── README.md                  # Documentación (Inglés)
 ├── README_JA.md               # Documentación (Japonés)
 ├── README_ES.md               # Documentación (Español)

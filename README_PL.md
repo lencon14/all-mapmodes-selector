@@ -44,7 +44,7 @@ Zapewnia szybki dostęp za jednym kliknięciem myszy do wszystkich **119 grywaln
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Plik deskryptora moda (Tag Interface / v1.0.0)
+├── metadata.json              # Plik deskryptora moda (Tag Interface / v1.*)
 ├── README.md                  # Dokumentacja (Angielski)
 ├── README_JA.md               # Dokumentacja (Japoński)
 ├── README_PL.md               # Dokumentacja (Polski)

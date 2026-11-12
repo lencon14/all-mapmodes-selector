@@ -44,7 +44,7 @@ Offre un accès rapide en un clic à l'ensemble des **119 modes de carte jouable
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Fichier descripteur de mod (Tag Interface / v1.0.0)
+├── metadata.json              # Fichier descripteur de mod (Tag Interface / v1.*)
 ├── README.md                  # Documentation (Anglais)
 ├── README_JA.md               # Documentation (Japonais)
 ├── README_FR.md               # Documentation (Français)
