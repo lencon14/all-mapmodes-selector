@@ -1,6 +1,6 @@
 # All Mapmodes Selector (EU5 Mod)
 
-[English](README.md) | **日本語**
+[English](README.md) | **日本語** | [简体中文](README_ZH.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Deutsch](README_DE.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [Polski](README_PL.md) | [Türkçe](README_TR.md)
 
 Europa Universalis V (EU5 / Project Caesar) 用のマップモード拡張Modです。
 一般プレイ用の **全119種類** のマップモードを、画面右下のカテゴリ別メニューからマウスで素早く切り替えられるUIを提供します。
