@@ -1,70 +1,73 @@
 # All Mapmodes Selector (EU5 Mod)
 
-Europa Universalis V (EU5 / Project Caesar) 用のマップモード拡張Modです。
-一般プレイ用の **全119種類** のマップモードを、画面右下のカテゴリ別メニューからマウスで素早く切り替えられるUIを提供します。
+**English** | [日本語](README_JA.md)
+
+An interface enhancement mod for Europa Universalis V (EU5 / Project Caesar).  
+Provides fast, one-click mouse access to all **119 playable mapmodes** through organized categorized menus in the bottom-right HUD.
 
 ---
 
-## 主な特徴・改善点
+## Key Features
 
-1. **全119種類の完全網羅（バニラの欠落を解消）**
-   - バニラではUIから選択できなかったマップモードをすべて修正・追加：
-     - `government`: `timeline_ownership`（年代記/領有権タイムライン - Group 99）
-     - `geography`: `expeditions`（探検 - Group 4）
-     - `geography`: `rivers`（河川 - 専用ボタン登録）
-2. **2カラム（2列）展開レイアウト（スクロールストレスの解消）**
-   - 項目数が多いカテゴリ（経済 26種、人口動態 19種、人口 17種、外交 16種、地理 16種）を **左右2列のカラム表示** に最適化。
-   - 縦長になりすぎて下部が見切れる問題を解消し、**画面の広い範囲を塞ぐことなく、全項目が一目で確認・ワンクリック選択** できます。
-3. **バニラ純正デザインと多言語に完全調和**
-   - バニラの羊皮紙・金枠バナー、公式アイコン、フォントスタイルを忠実に使用。
-   - マップモード名やツールチップは公式ローカライズ（日本語、英語など全言語）がそのまま自動適用されます。
+1. **Complete Coverage of All 119 Playable Mapmodes (Fixing Vanilla Omissions)**
+   - Unlocks and restores mapmodes that were previously missing or inaccessible in vanilla:
+     - `government`: `timeline_ownership` (Timeline Ownership / Chronicle - Group 99)
+     - `geography`: `expeditions` (Expeditions - Group 4)
+     - `geography`: `rivers` (Dedicated river mapmode button)
+2. **2-Column Layout (Eliminating Scroll Fatigue)**
+   - High-density categories (Economy: 26, Demography: 19, Population: 17, Diplomacy: 16, Geography: 16) are rendered in a clean **two-column layout**.
+   - Solves the vertical cutoff issue without blocking screen space, allowing you to see and pick any mapmode at a glance.
+3. **Faithful Vanilla Aesthetic & Full Multi-Language Support**
+   - Seamlessly matches the vanilla style: parchment texture, gold framing, official icons, and native typography.
+   - Mapmode names and tooltips automatically use the official in-game localizations for all supported languages (English, Japanese, etc.).
 
 ---
 
-## 収録マップモード一覧（計119種類）
+## Included Mapmodes (119 Total)
 
-| カテゴリ | 件数 | 構成 | 主なマップモード |
+| Category | Count | Layout | Key Mapmodes Included |
 |---|---|---|---|
-| **Economy (経済)** | **26** | 2列 | 税基盤、開発度、繁栄度、都市、原料、食料、支配度、近接度、道路、市場、市場アクセス 等 |
-| **Demography (人口動態・文化宗教)** | **19** | 2列 | 国家文化、地域文化、言語、典礼言語、国教、地域宗教、聖地、識字率、制度（Institution） 等 |
-| **Population (階級・人口)** | **17** | 2列 | 満足度、人口数、POP種別、貴族/市民/労働者/農民/兵士等の比率・分布、移住、反乱 等 |
-| **Diplomacy (外交)** | **16** | 2列 | 外交関係、態度、AI性向、大国、戦争、包囲網、休戦、AI征服欲 等 |
-| **Geography (地理・地形)** | **16** | 2列 | ロケーション、プロヴィンス、エリア、リージョン、大陸、地形、植生、気候、冬、河川、探検 等 |
-| **Government (国家・統治)** | **13** | 1列 | 政治、政府形態、国家ランク、王朝、宮廷言語、統合度、安定度、進歩、領有タイムライン 等 |
-| **Geopolitics (地政学・海洋)** | **7** | 1列 | 疫病、海洋、天然の良港適性、港湾許容量、航続距離、私掠、植民地 |
-| **Military (軍事)** | **5** | 1列 | 戦術、要塞、補給、軍事通行権、戦勝点 |
+| **Economy** | **26** | 2 Columns | Tax Base, Development, Prosperity, Cities, Raw Materials, Food, Control, Proximity, Roads, Markets, Market Access, etc. |
+| **Demography** | **19** | 2 Columns | Country Culture, Local Culture, Language, Liturgical Language, State Religion, Local Religion, Holy Sites, Literacy, Institutions, etc. |
+| **Population** | **17** | 2 Columns | Satisfaction, Population, POP Types, POP Ratios (Nobles, Burghers, Laborers, Peasants, Soldiers), Migration, Unrest, etc. |
+| **Diplomacy** | **16** | 2 Columns | Diplomatic Relations, Attitude, AI Stance, Great Powers, Wars, Coalitions, Truces, AI Conquest Desires, etc. |
+| **Geography** | **16** | 2 Columns | Locations, Provinces, Areas, Regions, Continents, Topography, Vegetation, Climate, Winter, Rivers, Expeditions, etc. |
+| **Government** | **13** | 1 Column | Politics, Government Type, Country Rank, Dynasties, Court Language, Integration, Stability, Progress, Timeline Ownership, etc. |
+| **Geopolitics** | **7** | 1 Column | Epidemics, Maritime, Natural Harbors, Harbor Capacity, Naval Range, Privateering, Colonies |
+| **Military** | **5** | 1 Column | Tactics, Forts, Supply, Military Access, War Score |
 
-※ デバッグ専用の5種類および内部処理専用（`category = hidden`）の51種類は除外しています。
+*Note: 5 debug-only mapmodes and 51 internal engine mapmodes (`category = hidden`) are excluded.*
 
 ---
 
-## ディレクトリ構成
+## Directory Structure
 
 ```text
 all-mapmodes-selector/
-├── metadata.json              # Mod定義ファイル (Interfaceタグ / v1.0.0)
-├── README.md                  # Mod概要・仕様書
+├── metadata.json              # Mod descriptor file (Interface tag / v1.0.0)
+├── README.md                  # Mod documentation (English)
+├── README_JA.md               # Mod documentation (Japanese)
 ├── in_game/
 │   ├── gui/
-│   │   └── hud_bot.gui        # 最適化されたマップモードセレクターGUI
+│   │   └── hud_bot.gui        # Optimized mapmode selector GUI
 │   └── localization/
-│       ├── english/           # 英語テキスト
-│       └── japanese/          # 日本語テキスト
+│       ├── english/           # English localization
+│       └── japanese/          # Japanese localization
 └── tools/
-    ├── extract_mapmodes.py    # マップモード抽出スクリプト
-    └── playable_mapmodes.json # 抽出データ (119件)
+    ├── extract_mapmodes.py    # Mapmode extraction script
+    └── playable_mapmodes.json # Extracted data (119 entries)
 ```
 
 ---
 
-## 導入方法（ローカルModとして読み込む場合）
+## Installation (Local Mod)
 
-EU5のユーザーModディレクトリ（通常は `~/Documents/Paradox Interactive/Europa Universalis V/mod/` または `~/Library/Application Support/Paradox Interactive/Europa Universalis V/mod/`）へ、本フォルダ `all-mapmodes-selector` のシンボリックリンクまたはコピーを配置してください。
+Place a symbolic link or copy the `all-mapmodes-selector` folder into your EU5 user mod directory (typically `~/Documents/Paradox Interactive/Europa Universalis V/mod/` or `~/Library/Application Support/Paradox Interactive/Europa Universalis V/mod/`).
 
 ```bash
-# 例: Documents配下にシンボリックリンクを作成
+# Example: Create a symlink under Documents
 mkdir -p "$HOME/Documents/Paradox Interactive/Europa Universalis V/mod"
 ln -s "/Users/lencon/games/EU5mod/all-mapmodes-selector" "$HOME/Documents/Paradox Interactive/Europa Universalis V/mod/all-mapmodes-selector"
 ```
 
-その後、Paradox Launcherの「プレイセット」で **All Mapmodes Selector** を有効化してゲームを起動します。
+Then, enable **All Mapmodes Selector** in your playset via the Paradox Launcher and launch the game.
