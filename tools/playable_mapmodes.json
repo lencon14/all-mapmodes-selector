@@ -1,0 +1,597 @@
+[
+  {
+    "key": "terrain",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "political",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "building_based",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "pop_based",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "timeline_ownership",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "army_based",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "government",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "country_rank",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "dynasty",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "court_language",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "integration",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "stability",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "tax_base",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "net_building_profit",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "potential_tax_base",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "uncontrolled_wealth",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "economical_base",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "development",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "advances",
+    "category": "government",
+    "icon": null
+  },
+  {
+    "key": "satisfaction",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "peasant_enfranchisement",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "nobles_percentage",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "burghers_percentage",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "laborers_percentage",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "peasants_percentage",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "prosperity",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "cities",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "town_rights",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "raw_material",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "food",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "food_productivity",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "local_population_growth",
+    "category": "economy",
+    "icon": "gfx/interface/icons/location_icons/new/population_growth.dds"
+  },
+  {
+    "key": "control",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "crown_power",
+    "category": "economy",
+    "icon": "gfx/interface/icons/location_icons/political_power.dds"
+  },
+  {
+    "key": "missing_control",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "max_control",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "proximity",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "roads",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "market",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "market_access",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "market_food_balance",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "market_food_stockpile",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "trade_range",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "market_language",
+    "category": "economy",
+    "icon": null
+  },
+  {
+    "key": "population",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "pop_types",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "nobles",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "clergy",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "burghers",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "laborers",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "soldiers",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "peasants",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "tribesmen",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "slaves",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "migration",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "disease",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "country_culture",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "culture",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "culture_group",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "language",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "language_power",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "dialect",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "common_language",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "liturgical_language",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "language_family",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "country_religion",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "religious_school",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "location_religion",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "location_religion_group",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "holy_sites",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "works_of_art",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "literacy",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "institution",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "diplomacy",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "opinion",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "ai_disposition_mapmode",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "antagonism",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "threat",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "great_powers",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "great_power_areas",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "gp_score_areas",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "war",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "coalition",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "players",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "victory_cards",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "country_truce",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "power_projection",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "tactical",
+    "category": "military",
+    "icon": null
+  },
+  {
+    "key": "fort",
+    "category": "military",
+    "icon": null
+  },
+  {
+    "key": "supply",
+    "category": "military",
+    "icon": null
+  },
+  {
+    "key": "country_military_access",
+    "category": "military",
+    "icon": null
+  },
+  {
+    "key": "warscore",
+    "category": "military",
+    "icon": "gfx/interface/icons/location_icons/war_score.dds"
+  },
+  {
+    "key": "locations",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "provinces",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "area",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "region",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "sub_continent",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "continent",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "naked",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "topography",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "vegetation",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "climate",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "winter",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "rivers",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "danger",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "weather",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "location_modifiers",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "maritime",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "natural_harbor_suitability",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "harbor_capacity",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "naval_range",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "expeditions",
+    "category": "geography",
+    "icon": null
+  },
+  {
+    "key": "privateering",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "colonial",
+    "category": "geopolitics",
+    "icon": null
+  },
+  {
+    "key": "rebels",
+    "category": "population",
+    "icon": null
+  },
+  {
+    "key": "ai_conquer_desire",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "movements",
+    "category": "demography",
+    "icon": null
+  },
+  {
+    "key": "ai_personality_mapmode",
+    "category": "diplomacy",
+    "icon": null
+  },
+  {
+    "key": "religious_orders",
+    "category": "demography",
+    "icon": null
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "All Mapmodes Selector",
+  "id": "all-mapmodes-selector",
+  "version": "1.0.0",
+  "supported_game_version": "1.4.*",
+  "short_description": "Quick mouse selection panel for all 119 vanilla playable mapmodes categorized cleanly.",
+  "tags": [
+    "Interface"
+  ],
+  "picture": "thumbnail.png",
+  "relationships": [],
+  "game_custom_data": {}
+}
